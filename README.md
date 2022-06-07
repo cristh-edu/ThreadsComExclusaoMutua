@@ -6,8 +6,8 @@
 * **Matéria:** Sincronização de processos/threads com exclusão mútua
 * **Integrantes:**
   * Cristhian Eduardo
-  * Samuel Andrade
   * Pedro Bruno
+  * Samuel Andrade
 
 ## Objetivo 
 Garantir a exclusão mútua com algoritmo de Semáforos.
